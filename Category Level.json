@@ -1,0 +1,88 @@
+{
+  "categorylevel": [
+    {
+      "name": "Multi-Brand Boutiques",
+      "level": [1,2,3,4,5]
+    },
+    {
+      "name": "Luxury Brands",
+      "level": [1,3]
+    },
+    {
+      "name": "Fashion Apparel & Accessories",
+      "level": [2,3,4,5]
+    },
+    {
+      "name": "Jewellery & Watches",
+      "level": [1,2,3]
+    },
+    {
+      "name": "Indonesian Fashion & Souvenirs",
+      "level": [3,4]
+    },
+    {
+      "name": "Sports & Lifestyle",
+      "level": [3,4]
+    },
+    {
+      "name": "Children's Apparel, Accessories & Toys",
+      "level": [3]
+    },
+    {
+      "name": "Electronics, Gadgets, Music & Video",
+      "level": [3,5]
+    },
+    {
+      "name": "Specialty Shops",
+      "level": [3,4]
+    },
+    {
+      "name": "Gifts, Chocolate & Florist",
+      "level": [1]
+    },
+    {
+      "name": "Beauty & Health",
+      "level": [1,2,3,4,5]
+    },
+    {
+      "name": "Food & Beverage",
+      "level": [1,2,3,4,5,6]
+    },
+    {
+      "name": "Home & Furnishing",
+      "level": [2,3,4]
+    },
+    {
+      "name": "Optical",
+      "level": [2,3,4]
+    },
+    {
+      "name": "Bakeries, Snack & Take Aways",
+      "level": [2,3,4,5]
+    },
+    {
+      "name": "Multi Function Hall",
+      "level": [2,4]
+    },
+    {
+      "name": "Banking & Money Changer",
+      "level": [3,4,5,6]
+    },
+    {
+      "name": "Service",
+      "level": [3,5]
+    },
+    {
+      "name": "Tailors & Textiles",
+      "level": [3]
+    },
+    {
+      "name": "Miniapolis Playground and Facilities",
+      "level": [3]
+    },
+    {
+      "name": "Entertainment",
+      "level": [6]
+    }
+  ]
+}
